@@ -1,0 +1,10 @@
+*node_modules
+*.DS_Store
+
+frontend/dist
+frontend/reports
+frontend/result
+frontend/.env
+
+backend/target
+backend/.idea
